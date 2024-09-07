@@ -22,6 +22,10 @@ Special thanks goes to:\
 -[Hamzaxx360](https://github.com/Hamzaxx370) for his help in parsing OMZ and helping with code improvements\
 -[SutandoTsukai](https://github.com/mosamadeeb) for his [binary reader](https://github.com/mosamadeeb/PyBinaryReader)!
 
+## Suggested Tools:
+
+We recommend you to use [DATman](https://github.com/SamuraiOndo/DATMan) by [SamuraiOndo](https://github.com/SamuraiOndo) for extraction of DAT files and other archives like arc,bin etc.
+
 ## Code Citatations:
 
 During the developemnt of the addon, some sources were used for some aspects of the code:\
