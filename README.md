@@ -25,5 +25,5 @@ Special thanks goes to:\
 ## Code Citatations:
 
 During the developemnt of the addon, some sources were used for some aspects of the code:\
--Parsing UV in Blender via Bmesh: [Link](https://behreajj.medium.com/shaping-models-with-bmesh-in-blender-2-9-2f4fcc889bf0)
+-Parsing UV in Blender via Bmesh: [Link](https://behreajj.medium.com/shaping-models-with-bmesh-in-blender-2-9-2f4fcc889bf0)\
 -Parsing custom vertex normals in Blender: [Link](https://blender.stackexchange.com/questions/165115/how-to-set-custom-vertex-normals-for-certain-vertices-using-python)
