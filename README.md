@@ -5,13 +5,12 @@ A Blender addon that allows to import OME, OMZ (3_0.dat or other equivalent) fro
 ![image](https://github.com/user-attachments/assets/304cb025-32c8-4673-9596-2573c7e9b67c)
 
 Features:
-1) OME mesh import (Type: ODBP)
-2) OMZ mesh import
+1) OME mesh import/export (Type: ODBP)
+2) OMZ mesh import/export
 
 Upcoming Features:
-1) OME mesh import (For all available types)
-2) OME mesh export (Type: ODBP)
-3) OMZ mesh export
+1) OME mesh import (Type: MDBP)
+2) OME mesh export for all versions
 
 **Check out the Wiki page for installation, usage and others!**
 
